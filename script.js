@@ -19,7 +19,6 @@ optionImages.forEach((image, index) =>{
 
 		gameContainer.classList.add("start");
 
-		let time = setTimeout(() =>{
 
 		gameContainer.classList.remove("start");
 
