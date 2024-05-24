@@ -18,7 +18,8 @@ optionImages.forEach((image, index) =>{
 		});
 
 		gameContainer.classList.add("start");
-
+		
+		setTimeout(() =>{
 
 		gameContainer.classList.remove("start");
 
